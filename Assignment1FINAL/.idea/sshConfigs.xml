@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ev3dev.local" id="8f6829ab-eefb-46a6-b087-b95cabefdd61" port="22" nameFormat="DESCRIPTIVE" username="robot" />
+    </configs>
+  </component>
+</project>
